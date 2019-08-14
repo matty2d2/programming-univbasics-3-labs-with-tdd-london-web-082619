@@ -1,3 +1,3 @@
 # Add your variables here
 
-let first_number = 
+first_number = 1.5 
